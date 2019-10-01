@@ -21,3 +21,7 @@ dr(n) = 1 + ((n - 1) mod 9)
 ## Practice 
 
 - [LeetCode 258 - Add Digits](https://leetcode.com/problems/add-digits/)
+
+## References
+
+- [Digital Root - Wikipedia](https://en.wikipedia.org/wiki/Digital_root)
